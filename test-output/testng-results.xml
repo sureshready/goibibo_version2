@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63504" started-at="2017-12-14T22:37:02Z" finished-at="2017-12-14T22:38:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63504" started-at="2017-12-14T22:37:02Z" finished-at="2017-12-14T22:38:05Z">
+      <class name="goibibo.com.testcases.onewayflightbookTest">
+        <test-method status="PASS" signature="onewayflightbook()[pri:0, instance:goibibo.com.testcases.onewayflightbookTest@1d94634]" name="onewayflightbook" duration-ms="63240" started-at="2017-12-15T04:07:02Z" finished-at="2017-12-15T04:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onewayflightbook -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:goibibo.com.testcases.onewayflightbookTest@1d94634]" name="quit" is-config="true" duration-ms="247" started-at="2017-12-15T04:08:05Z" finished-at="2017-12-15T04:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- goibibo.com.testcases.onewayflightbookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
